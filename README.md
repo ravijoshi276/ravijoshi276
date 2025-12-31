@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravijoshi276
 - 👀 I’m interested in ... learning new things
-- 🌱 I’m currently learning ... python and data analytics
+- 🌱 I’m Looking for roles in Analytics and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... joshiravi2706@gmail.com
 
